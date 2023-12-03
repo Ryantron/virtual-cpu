@@ -5,6 +5,6 @@ I designed a Central Processing Unit (CPU) using Logisim Evolution with my knowl
 - The [manual](https://github.com/Ryantron/virtual-cpu/blob/main/TridentManual.pdf) provides more specifics of *Trident*.
 - The picture below is what *Trident* looks like.
 <br><br>
-![trident-spec.png](https://github.com/Ryantron/virtual-cpu/blob/main/trident-spec.png)\
+![trident-spec.png](https://github.com/Ryantron/virtual-cpu/blob/main/trident-spec.png)
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
